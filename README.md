@@ -58,7 +58,7 @@ I'm a DevOps Engineer.
 
 |  Stats      | Langs           | Streak  |
 |:-------------:|:-------------:|:-----:|
-| ![Mubarokahh's github stats](https://github-readme-stats.vercel.app/api?username=mubarokahh&show_icons=true&theme=rose)  | [![Mubarokahh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarokahh&layout=compact&theme=rose)](https://github.com/surajwarbhe?tab=repositories) | [![Mubarokahh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubarokahh&theme=rose)](https://github.com/Mubarokahh?tab=repositories) |
+| ![Mubarokahh's github stats](https://github-readme-stats.vercel.app/api?username=mubarokahh&show_icons=true&theme=github_dark)  | [![Mubarokahh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarokahh&layout=compact&theme=github_dark)](https://github.com/surajwarbhe?tab=repositories) | [![Mubarokahh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubarokahh&theme=github_dark)](https://github.com/Mubarokahh?tab=repositories) |
 
 
 
