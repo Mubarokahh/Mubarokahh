@@ -54,6 +54,13 @@ I'm a DevOps Engineer.
 ![](https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
+### Stats
+
+|  Stats      | Langs           | Streak  |
+|:-------------:|:-------------:|:-----:|
+| ![Mubarokahh's github stats](https://github-readme-stats.vercel.app/api?username=mubarokahh&show_icons=true&theme=rose)  | [![Mubarokahh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarokahh&layout=compact&theme=rose))](https://github.com/surajwarbhe?tab=repositories) | [![Mubarokahh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubarokahh&theme=rose))](https://github.com/Mubarokahh?tab=repositories) |
+
+
 
 
 
