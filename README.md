@@ -33,7 +33,6 @@ I'm a DevOps Engineer.
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif" border-radius="5px" width="400" height="200" >
 
 - 🔭 I’m currently working to improve my skills on Kubernetes and Terrafoam
-- 🌱 I’m currently learning and improving on GCP
 - 📫 You can reach me: barakatidris01@gmail.com
 - 😄 Pronouns:she/her
 -  A devOp Engineer swith a passion for bridging the gap between development and operations infrastructure automation and cloud engineering.
