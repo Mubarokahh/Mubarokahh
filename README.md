@@ -4,9 +4,9 @@
 
 <hr>
 <h1>I am Barakat Idris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I'm a DevOps Engineer. My passions include infrastructure automation and cloud engineering amoungst other things
+I'm a DevOps Engineer. My passions include infrastructure automation and cloud engineering amoungst other things.
 
-- 🔭 I’m currently working to improve my skills on Kubernetes and Terrafaom,
+- 🔭 I’m currently working to improve my skills on Kubernetes and Terrafom
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
