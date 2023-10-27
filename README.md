@@ -12,7 +12,7 @@ I'm a DevOps Engineer.
 - 🌱 I’m currently learning and improving on GCP
 - 📫 You can reach me: barakatidris01@gmail.com
 - 😄 Pronouns:she/her
--  A devOpswith a passion for bridging the gap between development and operations infrastructure automation and cloud engineering.
+-  A devOp Engeneer swith a passion for bridging the gap between development and operations infrastructure automation and cloud engineering.
 
 ------------
 
