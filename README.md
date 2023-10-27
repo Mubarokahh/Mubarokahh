@@ -45,8 +45,7 @@ I'm a DevOps Engineer.
 
   ### Skills
 
-- **Programming Languages:** Python.
-- **Scripting:** Bash
+- **Scripting:** Bash,Python,YAML
 - **DevOps:** Ansible, Docker, Kubernetes, Jenkins, Terraform, Git and GitHub
 - **Cloud Computing:** AWS,
 - **Data Science:** Machine Learning, Deep Learning
