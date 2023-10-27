@@ -63,6 +63,11 @@ I'm a DevOps Engineer.
 | ![Mubarokahh's github stats](https://github-readme-stats.vercel.app/api?username=mubarokahh&show_icons=true&theme=github_dark)  | [![Mubarokahh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarokahh&layout=compact&theme=github_dark)](https://github.com/surajwarbhe?tab=repositories) | [![Mubarokahh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubarokahh&theme=github_dark)](https://github.com/Mubarokahh?tab=repositories) |
 
 
+### Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/barakat-idris)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/_Mubaroqah)
+
+
 
 
 
