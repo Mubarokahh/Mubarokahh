@@ -25,7 +25,7 @@ I'm a DevOps Engineer.
 - **DevOps:** Ansible, Docker, Kubernetes, Jenkins, Terraform, Git and GitHub
 - **Cloud Computing:** AWS,
 - **Data Science:** Machine Learning, Deep Learning
-- **Operating System:** RHEL-8, Ubuntu,Amazon Linux
+- **Operating System:** RHEL, Ubuntu,Amazon Linux
 - **Software Essentials:** Git, Terminal, VSCode
 - **Other:** Microsoft Office, GitHub
 
