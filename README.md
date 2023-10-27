@@ -6,32 +6,6 @@
 <h1>I am Barakat Idris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 I'm a DevOps Engineer.
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif" border-radius="5px" width="400" height="200" >
-
-- 🔭 I’m currently working to improve my skills on Kubernetes and Terrafoam
-- 🌱 I’m currently learning and improving on GCP
-- 📫 You can reach me: barakatidris01@gmail.com
-- 😄 Pronouns:she/her
--  A devOp Engeneer swith a passion for bridging the gap between development and operations infrastructure automation and cloud engineering.
--   I’m looking to collaborate on any open-source projects.
-
-------------
-
-
-
-  ### Skills
-
-- **Programming Languages:** Python.
-- **Scripting:** Bash
-- **DevOps:** Ansible, Docker, Kubernetes, Jenkins, Terraform, Git and GitHub
-- **Cloud Computing:** AWS,
-- **Data Science:** Machine Learning, Deep Learning
-- **Operating System:** RHEL, Ubuntu,Amazon Linux
-- **Software Essentials:** Git, Terminal, VSCode
-- **Other:** Microsoft Office, GitHub
-
-  ------------
-
 ### DevOps Skillset
 
  ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
@@ -54,6 +28,33 @@ I'm a DevOps Engineer.
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+
+
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/67607955080161.597768d22e415.gif" border-radius="5px" width="400" height="200" >
+
+- 🔭 I’m currently working to improve my skills on Kubernetes and Terrafoam
+- 🌱 I’m currently learning and improving on GCP
+- 📫 You can reach me: barakatidris01@gmail.com
+- 😄 Pronouns:she/her
+-  A devOp Engineer swith a passion for bridging the gap between development and operations infrastructure automation and cloud engineering.
+-   I’m looking to collaborate on any open-source projects.
+
+------------
+
+
+
+  ### Skills
+
+- **Programming Languages:** Python.
+- **Scripting:** Bash
+- **DevOps:** Ansible, Docker, Kubernetes, Jenkins, Terraform, Git and GitHub
+- **Cloud Computing:** AWS,
+- **Data Science:** Machine Learning, Deep Learning
+- **Operating System:** RHEL, Ubuntu,Amazon Linux
+- **Software Essentials:** Git, Terminal, VSCode
+- **Other:** Microsoft Office, GitHub
+
+  ------------
 
 ### Stats
 
