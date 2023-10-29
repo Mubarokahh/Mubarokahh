@@ -36,7 +36,7 @@ I'm a DevOps Engineer.
 - 📫 You can reach me: barakatidris01@gmail.com
 - 😄 Pronouns:she/her
 -  A devOp Engineer swith a passion for bridging the gap between development and operations infrastructure automation and cloud engineering.
--   I’m looking to collaborate on any open-source projects.
+-  I’m looking to collaborate on any open-source projects.
 
 ------------
 
