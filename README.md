@@ -3,7 +3,7 @@
 ------------
 
 <hr>
-<h1>I am Barakat Idris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1>I am Barakat Idris 
 I'm a DevOps Engineer.
 
 ### DevOps Skillset
